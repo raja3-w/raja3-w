@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 ### ⚡ TECH STACK
 
 #### 📱 Mobile Development
